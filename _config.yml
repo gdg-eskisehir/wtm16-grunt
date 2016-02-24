@@ -16,7 +16,7 @@ markdown: kramdown
 
 # Site settings
 baseurl: ""
-url: "http://gdg-eskisehir.github.io"
+url: "http://www.wtmeskisehir.org"
 permalink: '/blog/:title'
 
 # i18n
