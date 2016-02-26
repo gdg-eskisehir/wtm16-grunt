@@ -1,6 +1,7 @@
 .logo {
     background-image: url($logos-sprite);
     background-repeat: no-repeat;
+    background-size: 100%;
     &.logo-dark {
     	background-position: 0 -1px;
     }

@@ -1,7 +1,7 @@
 image: "direction-details.jpg"
 title: "Get around Lviv"
 cards:
- - {title: "Tren Garından", information: "Taksiye binerek Anadolu Üniversitesine direkt olarak ulaşım sağlayabilirsiniz veya tren garından 200 metre ilersinde ki tramvay durağına giderek Anadolu Üniversitesi durağında inip üniversiteye giriş yapabilirsiniz."}
+ - {title: "Tren Garından", information: "Tren Garından taksiye binerek Anadolu Üniversitesine direkt olarak ulaşım sağlayabilirsiniz veya tren garından 200 metre ilersinde ki tramvay durağına giderek Anadolu Üniversitesi durağında inip üniversiteye giriş yapabilirsiniz."}
  - {title: "Otogardan", information: "Otogardan tramvaya binerek Anadolu Üniversitesi durağında inip üniversiteye giriş yapabilirsiniz."}
  - {title: "Oteller", information: "Eskişehirde uygun fiyatlı bir çok otel bulunmaktadır."}
 wideCards:
@@ -9,23 +9,22 @@ wideCards:
   title: "Sorularınız?"
   subCards:
    -
-    title: "Oteller"
+    title: "Otel"
     links:
      - {link: "http://www.adalifeotel.com/", text: "Ada Life Otel"}
      - {link: "http://www.sennacity.com/", text: "Senna City"}
-     - {link: "http://www.ibis.com/gb/hotel-6567-ibis-eskisehir/index.shtml", text: "İbis Hotel"}
+     - {link: "https://tr.foursquare.com/v/adalar/4de64a41e4cde71744bbe475", text: "Adalar"}
      - {link: "http://www.bulvarhostel.com/",text: "Bulvar Hostel"}
    -
-    title: "Registration"
+    title: "Gezilcek Yerler"
     links:
-     - {link: "http://www.adalifeotel.com/", text: "Ada Life"}
-     - {link: "http://www.sennacity.com/", text: "Senna City"}
+     - {link: "https://www.tripadvisor.com.tr/Attraction_Review-g319806-d3651503-Reviews-Sazova_Park-Eskisehir_Eskisehir_Province.html", text: "Sazova Parkı"}
+     - {link: "https://www.tripadvisor.com.tr/Attraction_Review-g319806-d3656275-Reviews-Kent_Park-Eskisehir_Eskisehir_Province.html", text: "Kent Park"}
      - {link: "http://www.ibis.com/gb/hotel-6567-ibis-eskisehir/index.shtml", text: "İbis Hotel"}
-     - {link: "http://www.bulvarhostel.com/",text: "Bulvar Hostel"}
+     - {link: "https://tr.foursquare.com/v/barlar-soka%C4%9F%C4%B1/4d603e079f67f04d7f8b76fb",text: "Barlar Sokağı"}
    -
-    title: "Attendance Details"
+    title: "Restaurant"
     links:
-     - {link: "http://www.adalifeotel.com/", text: "Ada Life"}
-     - {link: "http://www.sennacity.com/", text: "Senna City"}
-     - {link: "http://www.ibis.com/gb/hotel-6567-ibis-eskisehir/index.shtml", text: "İbis Hotel"}
-     - {link: "http://www.bulvarhostel.com/",text: "Bulvar Hostel"}
+     - {link: "http://urfakebapsalonu.com/", text: "Urfa Kebap Salonu"}
+     - {link: "http://www.kofteciyusuf.com/kofteci-yusuf-eskisehir-subesi.html", text: "Köfteci Yusuf Eskişehir"}
+     - {link: "http://www.cigerciahmet.com/", text: "Ciğerci Ahmet Eskişehir"}
