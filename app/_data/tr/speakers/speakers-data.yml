@@ -1,67 +1,139 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 1
+  name: "Elif"
+  surname: "Boncuk"
+  company: "Garanti Teknoloji"
+  title: "Bilgisayar Mühendisi"
+  bio: "Elif Boncuk  2011 yılında Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldu.Şu anda Bahçeşehir Üniversitesinde MBA yapmaktadır."
+  thumbnailUrl: elif-boncuk.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ElifBoncuk"}
+    - {name: "twitter", link: "https://twitter.com/elifbon_"}
+    - {name: "site", link: "https://elifboncuk.wordpress.com/ "}
+
+- 
+  id: 2
+  name: "Kader "
+  surname: "Sucuk"
+  company: "Universiteplus"
+  title: "Web Developer"
+  bio: "Işık Üniversitesi Enformasyon Teknolojileri mezunuyum. 2011'den bu yana web uygulamaları geliştiriyorum. Halihazırda Ruby, Ruby on Rails ve React kullanarak Universiteplus için online eğitim araçları yazıyorum."
+  thumbnailUrl: kader-sucuk.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sucuklukfasulye/"}
+- 
+  id: 3
+  name: "Gökçen Burcu "
+  surname: "Ertürk"
+  company: "G Teknoloji"
+  title: "Oracle DWH & BI Developer"
+  bio: "Gökçen Burcu Ertürk, Ankara doğumlu. İlkokuldan üniversite hayatina kadar da Ankara'da yasamistir. Bilkent Universitesi'nden mezun olduktan sonra Oracle gold partneri olan G Teknoloji firmasinda İş zekasi ve veri ambari geliştiricisi olarak görev almaktadir. ING Bank MIS Projesi, Turkcell BIS Projesi'nde görev almış halen Turkcell'de FIX Projesi üzerinde çalismaya devam etmektedir. Gönüllü olarak pek çok organizasyonda (ACM-W, TBD Genc) görev almis, halen GDG Ankara ve WTM Ankara ekibinin üyesi olarak görev almaktadir. Kariyerine veritabani üzerindeki çalışmalarıyla devam ederken bireysel olarak Android ve iOS uzerinde uygulama geliştirmektedir."
+  thumbnailUrl: burcu-gdg.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114568591151316164517/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Tuğba"
+  surname: "Üstündağ"
+  company: "Freelance"
+  title: "Web Developer & Android Developer"
+  bio: "Ben yaklaşık 4 yıl Php programlama diliyle web tabanlı orta ve büyük ölçekli projeler geliştirdim. Uzun zamandır da Android uygulamaları geliştirmekteyim.Github’da ve Google Play’de uygulamalarım bulunmaktadır. Diğer bir yandan da  Android alanında yapmış olduğum çalışmaları, yeni başlayan geliştiricilere yardımcı olmak amacıyla makaleleştirip, kendi bloğum ve Turkcell Geleceği Yazanlar platformu üzerinden yayınlamaktayım"
+  thumbnailUrl: tugba.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/tugbaustundag_"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  name: "Mert"
+  surname: "Şimşek"
+  company: "GDG Eskisehir"
+  title: "Android Developer"
+  bio: ""
+  thumbnailUrl: mert.jpg
+  rockstar: tru
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/mertsimsek_"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Satuk Buğrahan"
+  surname: "ÖZTÜRK"
+  company: "Anadolu Üniversitesi"
+  bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciyim. 2014'den beri Google Developer Group Eskişehir üyesiyim. 2 yıldır Java, C programlama dilleri ve IoT teknolojisiyle ilgileniyorum."
+  thumbnailUrl: bugra-ozturk.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+    - {name: "twitter", link: "https://twitter.com/sbozturk"}
+    - {name: "google-plus", link: "https://plus.google.com/+sbozturk1993"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/sbozturk"}
+-    
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Yücel"
+  surname: "Terlemezoğlu"
+  company: "Anadolu Üniversitesi"
+  bio: "Anadolu üniversitesi 2.sınıf bilgisayar mühendisliği öğrencisiyim. DevFest Student'14 den bu yana GDG üyenisim. 2 yıldır Java, Android ve IoT ile uğraşıyorum." 
+  thumbnailUrl: yucel-terlemezoglu.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/YucelT94"}
+-    
+  id: 8
+  name: "Merve"
+  surname: "Kara"
+  company: "Anadolu Üniversitesi"
+  title: "Web Developer"
+  bio: "Osmangazi Üniversitesi Matematik-Bilgisayar  mezunuyum.  Web developer'ım. Javascript ile ilgileniyorum."
+  thumbnailUrl: merve-kaya.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
+  social: 
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/mrvkr"}
+
+-    
+  id: 9
+  name: "Ege"
+  surname: "ORHAN"
+  company: "Anadolu Üniversitesi"
+  bio: "1993 yılında Ankarada doğdum. 13 yaşında blog açarak başlayan web maceram hala yeni şeyler öğrenmenin verdiği heyecanla devam ediyor.Hayallerimin bölümü olan Anadolu Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde okumaktayım.Halen Anadolu Üniversitesi Engelli Entegre Yüksekokulunda Kısmı zamanlı Web Geliştiricisi olarak çalışmaktayım. Aynı zamanda Umut Mutfağı adında bir Django temelli web projesinin de tasarımcısıyım."
+  thumbnailUrl: ege-orhan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lilaege" }
+    - {name: "site", link: "http://egeorhan.wordpress.com" }
+
+-    
+  id: 10
+  name: "Elif T."
+  surname: "KUŞ"
+  company: "Safkan Yazılım"
+  title: "Yazılım Mühendisi"
+  bio: "Elif T. Kuş, 2001 yılında ODTÜ’den Kimya Mühendisliği Lisans Derecesi, 2005 yılında Boğaziçi Üniversitesi’nden Bilişsel Bilim Yüksek Lisans Derecesi aldı. 2006 yılında, kod yazmanın kendisi için daha uygun bir iş olduğuna karar verdi. Boğaziçi Üniversitesi’nde aynı yıl başladığı Yazılım Mühendisliği Yüksek Lisans Programı’nı 2008 yılında başarıyla tamamladı. Çeşitli platformlarda (Linux, Android, Windows, …) çeşitli programlama dilleriyle (Java, Python, C#, …) kod yazdı. Yazılım proje yönetimi, DevOps gibi konulara merak saldı. Halen Safkan Yazılım’da Teknik Danışman olarak çalışıyor. 2013’te açtığı kadinyazilimci.com blogu, Kadın Yazılımcı Oluşumu’nun başlangıcı oldu. Kadın Yazılımcı’nın amacı kadınlar arasında iletişimi sağlamak ve özellikle İstanbul dışındaki kadın yazılımcı adaylarına ilham vermek."
+  thumbnailUrl: elif-t.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/elifkus"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
