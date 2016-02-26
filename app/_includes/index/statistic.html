@@ -3,6 +3,7 @@
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
+            <div class="stat" style="font-size: 54px;">{{site.data.[site.lang].index.statistics.title.}}</div>
 			{% assign animationDelay = 0 %}
             {% for statistic in site.data.[site.lang].index.statistics.blocks %}
             {% assign colWidth = 12 | divided_by: forloop.length %}
