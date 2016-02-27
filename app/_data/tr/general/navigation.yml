@@ -2,7 +2,7 @@ links:
  - {permalink: "/", text: "Anasayfa"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
- - {permalink: "/team/", text: "Takım"}
+# - {permalink: "/team/", text: "Takım"}
  - {permalink: "/logistics/", text: "Ulaşım"}
  - 
    subText: "Sosyal"
