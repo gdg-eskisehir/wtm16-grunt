@@ -135,7 +135,8 @@ module.exports = function(grunt) {
                     ],
 
                     '.tmp/<%= app.baseurl %>/js/scripts.js': [
-                        '<%= app.source %>/_assets/js/scripts.js'
+                        '<%= app.source %>/_assets/js/scripts.js',
+                        '<%= app.source %>/_assets/js/subscribe.js'
                     ]
                 }
             },
@@ -156,7 +157,8 @@ module.exports = function(grunt) {
                     ],
 
                     '<%= app.dist %>/<%= app.baseurl %>/js/scripts.js': [
-                        '<%= app.source %>/_assets/js/scripts.js'
+                        '<%= app.source %>/_assets/js/scripts.js',
+                        '<%= app.source %>/_assets/js/subscribe.js'
                     ]
                 }
             }
