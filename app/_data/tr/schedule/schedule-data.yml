@@ -1,23 +1,53 @@
-- 
-  date: "2015-02-05"
-  dateReadable: "5 Şubat"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
+viewPresentation: "Sunumu görüntüle"
+language: "Dil"
+complexity: "Karmaşıklık"
+data:
+ - 
+   date: "2015-02-05"
+   dateReadable: "5 Şubat"
+   tracks: 
+     - {title: "Workshop - 1", color: "#90be4e"}
+     - {title: "Workshop - 2", color: "#90be4e"}
+     - {title: "Sandbox", color: "#03a9f4"}
+     - {title: "Sunum", color: "#e91e63"}
+   timeslots:
+     - {
+         startTime: "09:30",
+         endTime: "10:00",
+         sessionIds: [001]
+     }
+     - {
+         startTime: "10:00",
+         endTime: "10:15",
+         sessionIds: [000, 000, 000, 104]
+     }
+     - {
+         startTime: "10:15",
+         endTime: "11:00",
+         sessionIds: [201, 202, 000, 000]
+     }
+     - {
+         startTime: "11:15",
+         endTime: "12:15",
+         sessionIds: [301, 000, 000, 000]
+     }
+     - {
+         startTime: "12:15",
+         endTime: "13:15",
+         sessionIds: [002]
+     }
+     - {
+         startTime: "13:15",
+         endTime: "14:00",
+         sessionIds: [000, 000, 000, 000]
+     }
+     - {
+         startTime: "14:15",
+         endTime: "15:00",
+         sessionIds: [501, 502, 000, 000]
+     }
+     - {
+         startTime: "15:15",
+         endTime: "16:00",
+         sessionIds: [000, 602, 000, 000]
+     } 
