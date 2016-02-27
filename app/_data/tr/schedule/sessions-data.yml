@@ -20,7 +20,7 @@
   title: "Açılış Konuşması"
   description: ""
   subtype: sunum
-  speakers: [3, 6]
+  speakers: []
   language: tr
   complexity: "Giriş Seviyesi"
 -
