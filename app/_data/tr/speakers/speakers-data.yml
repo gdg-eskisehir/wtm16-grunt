@@ -4,14 +4,13 @@
   surname: "Boncuk"
   company: "Garanti Teknoloji"
   title: "Bilgisayar Mühendisi"
-  bio: "Elif Boncuk  2011 yılında Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldu.Şu anda Bahçeşehir Üniversitesinde MBA yapmaktadır."
+  bio: "Elif Boncuk 2011 yılında Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldu. Şu anda Bahçeşehir Üniversitesinde MBA yapmaktadır."
   thumbnailUrl: elif-boncuk.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+ElifBoncuk"}
     - {name: "twitter", link: "https://twitter.com/elifbon_"}
     - {name: "site", link: "https://elifboncuk.wordpress.com/ "}
-
 - 
   id: 2
   name: "Kader "
@@ -30,7 +29,7 @@
   company: "G Teknoloji"
   title: "Oracle DWH & BI Developer"
   bio: "Gökçen Burcu Ertürk, Ankara doğumlu. İlkokuldan üniversite hayatina kadar da Ankara'da yasamistir. Bilkent Universitesi'nden mezun olduktan sonra Oracle gold partneri olan G Teknoloji firmasinda İş zekasi ve veri ambari geliştiricisi olarak görev almaktadir. ING Bank MIS Projesi, Turkcell BIS Projesi'nde görev almış halen Turkcell'de FIX Projesi üzerinde çalismaya devam etmektedir. Gönüllü olarak pek çok organizasyonda (ACM-W, TBD Genc) görev almis, halen GDG Ankara ve WTM Ankara ekibinin üyesi olarak görev almaktadir. Kariyerine veritabani üzerindeki çalışmalarıyla devam ederken bireysel olarak Android ve iOS uzerinde uygulama geliştirmektedir."
-  thumbnailUrl: burcu-gdg.jpg
+  thumbnailUrl: gokcen-burcu-erturk.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114568591151316164517/"}
@@ -41,19 +40,19 @@
   company: "Freelance"
   title: "Web Developer & Android Developer"
   bio: "Ben yaklaşık 4 yıl Php programlama diliyle web tabanlı orta ve büyük ölçekli projeler geliştirdim. Uzun zamandır da Android uygulamaları geliştirmekteyim.Github’da ve Google Play’de uygulamalarım bulunmaktadır. Diğer bir yandan da  Android alanında yapmış olduğum çalışmaları, yeni başlayan geliştiricilere yardımcı olmak amacıyla makaleleştirip, kendi bloğum ve Turkcell Geleceği Yazanlar platformu üzerinden yayınlamaktayım"
-  thumbnailUrl: tugba.jpg
-  rockstar: true
+  thumbnailUrl: tugba-ustundag.jpg
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/tugbaustundag_"}
 - 
   id: 5
   name: "Mert"
   surname: "Şimşek"
-  company: "GDG Eskisehir"
+  company: "GDG Eskişehir"
   title: "Android Developer"
   bio: ""
-  thumbnailUrl: mert.jpg
-  rockstar: tru
+  thumbnailUrl: mert-simsek.jpg
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
@@ -61,11 +60,11 @@
 - 
   id: 6
   name: "Satuk Buğrahan"
-  surname: "ÖZTÜRK"
+  surname: "Öztürk"
   company: "Anadolu Üniversitesi"
   bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciyim. 2014'den beri Google Developer Group Eskişehir üyesiyim. 2 yıldır Java, C programlama dilleri ve IoT teknolojisiyle ilgileniyorum."
-  thumbnailUrl: bugra-ozturk.jpg
-  rockstar: true
+  thumbnailUrl: satuk-bugra-ozturk.jpg
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
@@ -79,7 +78,7 @@
   company: "Anadolu Üniversitesi"
   bio: "Anadolu üniversitesi 2.sınıf bilgisayar mühendisliği öğrencisiyim. DevFest Student'14 den bu yana GDG üyenisim. 2 yıldır Java, Android ve IoT ile uğraşıyorum." 
   thumbnailUrl: yucel-terlemezoglu.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
@@ -90,9 +89,9 @@
   surname: "Kara"
   company: "Anadolu Üniversitesi"
   title: "Web Developer"
-  bio: "Osmangazi Üniversitesi Matematik-Bilgisayar  mezunuyum.  Web developer'ım. Javascript ile ilgileniyorum."
-  thumbnailUrl: merve-kaya.jpg
-  rockstar: true
+  bio: "Osmangazi Üniversitesi Matematik - Bilgisayar  mezunuyum.  Web developer'ım. Javascript ile ilgileniyorum."
+  thumbnailUrl: merve-kara.jpg
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
@@ -101,39 +100,39 @@
 -    
   id: 9
   name: "Ege"
-  surname: "ORHAN"
+  surname: "Orhan"
   company: "Anadolu Üniversitesi"
   bio: "1993 yılında Ankarada doğdum. 13 yaşında blog açarak başlayan web maceram hala yeni şeyler öğrenmenin verdiği heyecanla devam ediyor.Hayallerimin bölümü olan Anadolu Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde okumaktayım.Halen Anadolu Üniversitesi Engelli Entegre Yüksekokulunda Kısmı zamanlı Web Geliştiricisi olarak çalışmaktayım. Aynı zamanda Umut Mutfağı adında bir Django temelli web projesinin de tasarımcısıyım."
   thumbnailUrl: ege-orhan.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/lilaege" }
     - {name: "site", link: "http://egeorhan.wordpress.com" }
-
 -    
   id: 10
   name: "Elif T."
-  surname: "KUŞ"
+  surname: "Kuş"
   company: "Safkan Yazılım"
   title: "Yazılım Mühendisi"
   bio: "Elif T. Kuş, 2001 yılında ODTÜ’den Kimya Mühendisliği Lisans Derecesi, 2005 yılında Boğaziçi Üniversitesi’nden Bilişsel Bilim Yüksek Lisans Derecesi aldı. 2006 yılında, kod yazmanın kendisi için daha uygun bir iş olduğuna karar verdi. Boğaziçi Üniversitesi’nde aynı yıl başladığı Yazılım Mühendisliği Yüksek Lisans Programı’nı 2008 yılında başarıyla tamamladı. Çeşitli platformlarda (Linux, Android, Windows, …) çeşitli programlama dilleriyle (Java, Python, C#, …) kod yazdı. Yazılım proje yönetimi, DevOps gibi konulara merak saldı. Halen Safkan Yazılım’da Teknik Danışman olarak çalışıyor. 2013’te açtığı kadinyazilimci.com blogu, Kadın Yazılımcı Oluşumu’nun başlangıcı oldu. Kadın Yazılımcı’nın amacı kadınlar arasında iletişimi sağlamak ve özellikle İstanbul dışındaki kadın yazılımcı adaylarına ilham vermek."
-  thumbnailUrl: elif-t.jpg
+  thumbnailUrl: elif-kus.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/elifkus"}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+-    
+  id: 11
+  name: "Ahmet"
+  surname: "Keskin"
+  company: "GDG Eskişehir"
+  title: "iOS Geliştirici"
+  bio: "Haziran 2015 de Anadolu Üniversitesi Bilgisayar mühendisliğinden mezun oldum. Kendini mobil teknolojilere adamış birisi olarak olabildiğince yeni teknolojileri takip edip, öğrenmeye ve projelerimde uygulamaya çalışıyorum. Diğer yandan bir çok erkek gibi futbol vazgeçilmezim. Bilgisayar mühendisliğine ise Counter oynarken aldığı zevk ile tercih etmiş biri olarak oyunlardan vazgeçmediğimi de belirtmek isterim :))"
+  thumbnailUrl: ahmet-keskin.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/elifkus"}
+    - {name: "site", link: "www.ahmetkeskin.me" }
