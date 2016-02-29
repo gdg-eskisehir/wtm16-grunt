@@ -14,45 +14,45 @@ data:
      - {
          startTime: "09:30",
          endTime: "10:00",
-         sessionIds: [001]
+         sessionIds: [0001]
      }
      - {
          startTime: "10:00",
          endTime: "10:05",
-         sessionIds: [000, 000, 000, 104]
+         sessionIds: [0000, 0000, 0000, 1004]
      }
      - {
          startTime: "10:05",
          endTime: "11:45",
-         sessionIds: [000, 000, 203, 204]
+         sessionIds: [000, 0000, 2003, 2004]
      }
      - {
          startTime: "12:00",
          endTime: "12:45",
-         sessionIds: [000, 000, 303, 304]
+         sessionIds: [0000, 0000, 3003, 3004]
      }
      - {
          startTime: "13:00",
          endTime: "13:45",
-         sessionIds: [000, 402, 403, 404]
+         sessionIds: [0000, 4002, 4003, 4004]
      }
      - {
          startTime: "13:45",
          endTime: "14:15",
-         sessionIds: [002]
+         sessionIds: [0002]
      }
      - {
          startTime: "14:15",
          endTime: "15:00",
-         sessionIds: [501, 502, 503, 000]
+         sessionIds: [5001, 5002, 5003, 0000]
      }
      - {
          startTime: "15:15",
          endTime: "16:15",
-         sessionIds: [601, 602, 000, 000]
+         sessionIds: [6001, 6002, 0000, 0000]
      }
      - {
          startTime: "16:30",
          endTime: "17:00",
-         sessionIds: [701, 602, 000, 000]
+         sessionIds: [7001, 6002, 0000, 0000]
      }

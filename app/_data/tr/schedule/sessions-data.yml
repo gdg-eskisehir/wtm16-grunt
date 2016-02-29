@@ -1,22 +1,22 @@
 -
-  id: 000
+  id: 0000
   title: ""
   place: ""
   service: false
   description: ""
 -
-  id: 001
+  id: 0001
   title: "Kayıt"
   place: "Eğitim Fakültesi E-Blok"
   service: true
-  description: "Bina girişindeki kayıt masalarında etkinliğe kayıt olmayu unutmayın!"
+  description: "Bina girişindeki kayıt masalarında etkinliğe kayıt olmayı unutmayın!"
 -
-  id: 002
+  id: 0002
   title: "Öğle Arası"
   place: "Eğitim Fakültesi E-Blok"
   service: true
 -
-  id: 104
+  id: 1004
   title: "Açılış Konuşması"
   description: ""
   subtype: sunum
@@ -24,7 +24,7 @@
   language: tr
   complexity: "Giriş Seviyesi"
 -
-  id: 203
+  id: 2003
   title: "IoT Nedir?"
   description: "Internet of Things kavramı 1991 yılında Cambridge Üniversitesi'nde ortaya çıkmıştır. Gün geçtikçe daha geniş kitlelere ulaşan bu teknoloji günümüzün ve geleceğin vazgeçilmez parçalarından biri haline gelmiştir. Biz de bu oturumda IoT kavramını daha yakından inceleyip, IoT teknolojisinde kullanılan geliştirme kartlarını ve sensörleri açıklayacağız."
   subtype: sandbox
@@ -32,7 +32,7 @@
   language: tr
   complexity: "Giriş Seviyesi"
 -
-  id: 204
+  id: 2004
   title: "Android Uygulama Bileşenleri - İçerik Sağlayıcılar"
   description: "Android uygulamalarını oluşturmak için kullandığımız bileşenlerini genel olarak açıklayacağım.Android uygulama bileşinlerinden olan İçerik Sağlayıcılar (Content Provider) hakkında ayrıntılı bilgi vericeğim.Son olarak İçerik Sağlayıcılar hakkında uygulamalı örnek bir proje göstereceğim."
   subtype: sunum
@@ -40,7 +40,7 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 303
+  id: 3003
   title: "Scrum Hakkında"
   description: "Sektörde duyulan en popüler kelimelerden biri Scrum. Peki nedir bu Scrum, nasıl projelerde kullanılır, diğer methodolojilerden farkı nedir!"
   subtype: sandbox
@@ -48,7 +48,7 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 304
+  id: 3004
   title: "Oracle DWH/BI Developer Olmak ve Kariyer Firsatları"
   description: "Konuşma, bir verinin bilgiye dönüşme yolculuğunda veritabanı üzerinde geliştirme ve raporlama yapma sürecini kapsamaktadır. Bununla birlikte Veri Ambarı ve İş Zekası nedir? Bir ETL developer nasıl geliştirme yapar ve raporlaması nasil meydana gelir. Bu raporlar günlük hayatta şirketlerin süreçlerini nasıl etkiler ne gibi faydaları vardır? Sorularına yanıt bulacağımız bir sunum olacaktır. Kişisel deneyim ve yeni mezun olacak arkadaşlar için kariyer fırsatları hakkında tüyoları da yine bu konuşma içerisinde yer verilecektir."
   subtype: sunum
@@ -56,7 +56,7 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 402
+  id: 4002
   title: "Birgün Herkes JavaScript Yazacak"
   description: "JavaScript nedir? Javascript ile temel seviyede kodlama yapmak."
   subtype: workshop
@@ -64,7 +64,7 @@
   language: tr
   complexity: "Giriş Seviyesi"
 -
-  id: 403
+  id: 4003
   title: "Oyun Tasarımlarının Arkasındaki Psikolojiyi Anlamak"
   description: "Bu konuşmada, oyun tasarımı hakkında konuşacağız. Oyuncu çeşitlerini analiz edip, daha sonra da oyun mekaniklerinin oyunlara duyguları kullanarak nasıl uygulandığını göreceğiz. Sizlere de yanımda bu olayları daha iyi anlamak için 3 tane oyun örneği getirdim."
   subtype: sandbox
@@ -72,16 +72,15 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 404
+  id: 4004
   title: "Daha İyi Performans için Uygulama Optimizasyonu"
-  description: "Kullanıcılar için performan önemlir.Sizin için daha önemli olması gerekir.Bu oturumda  perfomans ölçme araçlarını kullanarak uygulamada ki sorunları düzelteceğimizi anlatacağım. Kullanıcılar için performan önemlir.Sizin için daha önemli olması gerekir.Bu oturumda  perfomans ölçme araçlarını kullanarak uygulamada ki darboğaz sorunlarını düzelteceğimizi anlatacağım."
-  subtype: workshop
+  description: "Kullanıcılar için performans önemlidir. Sizin için daha önemli olması gerekir. Bu oturumda perfomans ölçme araçlarını kullanarak uygulamada ki darboğaz sorunlarını nasıl düzeltebileceğimizi anlatacağım."
+  subtype: sunum
   speakers: [1]
   language: tr
   complexity: "İleri Seviye"
-
 -
-  id: 501
+  id: 5001
   title: "Semantik Versiyonlama ve Bir Versiyonlama Aracı Olarak Git"
   description: "Semantik versiyonlama nedir? Neden Versiyonluyoruz? Bir versiyonlama aracı olarak Git nasıl kullanılır?"
   subtype: workshop
@@ -89,7 +88,7 @@
   language: tr
   complexity: "Giriş Seviyesi"
 -
-  id: 502
+  id: 5002
   title: "Mobil Kullanıcı Arayüzü ve Kullanıcı Deneyimi Tasarımı"
   description: "Mobil cihazların yaygın kullanımı ile birlikte kullanıcıların davranışları ve ihtiyaçları da değişiklik gösterdi. Buna bağlı olarak mobil arayüz tasarımında ihtiyaçlar ve çözümler, masaüstü arayüzlerden oldukça farklılaştı. Planladığım workshop'da mobil arayüz tasarımında temel alınan tasarım kuralları, dikkat edilmesi gereken noktalar, tasarım süreci, kullanıcı deneyiminin tasarımlarımıza etkisi ve örnekler gibi mobil arayüz ve deneyim tasarımı ile ilgili doyurucu fakat sıkıcı olmayan, her seviyede katılımcının takip edebileceği bir içerik planladım."
   subtype: workshop
@@ -97,7 +96,7 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 503
+  id: 5003
   title: "Firebase'e Giriş"
   description: "Bu konuşmamda Firebase hakkında genel bir bilgi verip Android üzerinde basit bir demo yapacağım."
   subtype: sandbox
@@ -105,7 +104,7 @@
   language: tr
   complexity: "Giriş Seviyesi"
 -
-  id: 601
+  id: 6001
   title: "Swift 2'de Yenilikler"
   description: "Swift 2 ile gelen yeni özelliklerden kısa kısa bahsedilecektir. Bunların başında Protocol Oriented Programming olmakla birlikte, Error Handling, guard keyword ile Binding konularına değinilecektir."
   subtype: workshop
@@ -113,7 +112,7 @@
   language: tr
   complexity: "Orta Seviye"
 -
-  id: 602
+  id: 6002
   title: "Django Girls Tanıtım Atölyesi"
   description: "Django Girls etkinlikleri nedir? Django Girls İstanbul etkinliğinde neler yaptık? Daha neler yapacağız? Bunları konuşacağız. Arkasından Django Girls tutorial üzerinden başlayıp bir blog sitesini yapmaya başlayacağız. Tutorial'ın geri kalanını katılımcılar kendileri tamamlayabilecekler ya da Eskişehir'de düzenleyeceğimiz Django Girls Atölyesi'nde devam edebilecekler. Atölye sonrasında isteyenlere Slack grubu üzerinden destek olacağız. Gereklilikler: Etkinliğe katılmak isteyen katılımcıların etkinlik öncesinde kurulumları bitirmiş olmaları gerekiyor. Kurulumu tamamlayanlar ve yardım almak isteyenler standımızda etkinlik öncesinde kurulumlarını kontrol ettirerek isimlerini yazdırmaları gerekiyor. Gerekli programlar: Kurulum rehberi için http://tutorial.djangogirls.org/tr/installation/index.html linkini ziyaret edin. Sublime Text 2, 'virtualenv' kurulmalı ve Django'yu yüklemelidir."
   subtype: workshop
@@ -122,7 +121,7 @@
   complexity: "Giriş Seviyesi"
   presentation: "http://tutorials.djangogirls.org"
 -
-  id: 701
+  id: 7001
   title: "Android Data Binding"
   description: "Android uygulaması geliştirirken 'Data Binding' kullanımı ve avantajları."
   subtype: workshop

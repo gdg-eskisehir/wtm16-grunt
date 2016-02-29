@@ -41,7 +41,7 @@
   title: "Web Developer & Android Developer"
   bio: "Ben yaklaşık 4 yıl Php programlama diliyle web tabanlı orta ve büyük ölçekli projeler geliştirdim. Uzun zamandır da Android uygulamaları geliştirmekteyim.Github’da ve Google Play’de uygulamalarım bulunmaktadır. Diğer bir yandan da  Android alanında yapmış olduğum çalışmaları, yeni başlayan geliştiricilere yardımcı olmak amacıyla makaleleştirip, kendi bloğum ve Turkcell Geleceği Yazanlar platformu üzerinden yayınlamaktayım"
   thumbnailUrl: tugba-ustundag.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/tugbaustundag_"}
 - 
@@ -130,7 +130,7 @@
   title: "iOS Geliştirici"
   bio: "Haziran 2015 de Anadolu Üniversitesi Bilgisayar mühendisliğinden mezun oldum. Kendini mobil teknolojilere adamış birisi olarak olabildiğince yeni teknolojileri takip edip, öğrenmeye ve projelerimde uygulamaya çalışıyorum. Diğer yandan bir çok erkek gibi futbol vazgeçilmezim. Bilgisayar mühendisliğine ise Counter oynarken aldığı zevk ile tercih etmiş biri olarak oyunlardan vazgeçmediğimi de belirtmek isterim :))"
   thumbnailUrl: ahmet-keskin.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/114568591151316164517/"}
   social: 
@@ -144,7 +144,7 @@
   title: "QA Specialist"
   bio: "Aycan Aracı, GDG İstanbul üyesi. Türkiye' de oyun sektörünü geliştirmeye çalışan bir gönüllü. Peak Games'de çalışıyor."
   thumbnailUrl: aycan-araci.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group İstanbul", url: "https://developers.google.com/groups/chapter/100514812580249787371/"}
 -
@@ -181,7 +181,7 @@
   title: ""
   bio: "Hobi olarak başladığı dijital tasarım kariyerini 2005 yılında Okan Bayülgen ile çalışarak profesyonelliğe taşıdı. Birçok kurumsal ve özel projede arayüz tasarımcı ve önyüz geliştirici olarak yer aldı. Bir dönem MacLine dergisinde 'Web Atölyesi' adlı bölümde web tasarım süreçleri ile ilgili makaleler yazdı. Kurumsal şirketlerde dijital tasarım direktörlüğü de yapan Gökçe Türkay, 2013 yılı itibariyle kendi firması Kreatif İşler üzerinden yazılım firmalarına ve web sitelerine dijital tasarım danışmanlığı hizmeti vermektedir."
   thumbnailUrl: gokce-turkay.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/gokceturkay"}
     - {name: "twitter", link: "https://twitter.com/gokceturkay"}
