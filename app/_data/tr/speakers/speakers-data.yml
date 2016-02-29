@@ -48,7 +48,7 @@
   id: 5
   name: "Mert"
   surname: "Şimşek"
-  company: "GDG Eskişehir"
+  company: ""
   title: "Android Developer"
   bio: ""
   thumbnailUrl: mert-simsek.jpg
@@ -102,6 +102,7 @@
   name: "Ege"
   surname: "Orhan"
   company: "Anadolu Üniversitesi"
+  title: "Öğrenci"
   bio: "1993 yılında Ankarada doğdum. 13 yaşında blog açarak başlayan web maceram hala yeni şeyler öğrenmenin verdiği heyecanla devam ediyor.Hayallerimin bölümü olan Anadolu Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde okumaktayım.Halen Anadolu Üniversitesi Engelli Entegre Yüksekokulunda Kısmı zamanlı Web Geliştiricisi olarak çalışmaktayım. Aynı zamanda Umut Mutfağı adında bir Django temelli web projesinin de tasarımcısıyım."
   thumbnailUrl: ege-orhan.jpg
   rockstar: false
@@ -121,18 +122,67 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/elifkus"}
-
 -    
   id: 11
   name: "Ahmet"
   surname: "Keskin"
-  company: "GDG Eskişehir"
+  company: ""
   title: "iOS Geliştirici"
   bio: "Haziran 2015 de Anadolu Üniversitesi Bilgisayar mühendisliğinden mezun oldum. Kendini mobil teknolojilere adamış birisi olarak olabildiğince yeni teknolojileri takip edip, öğrenmeye ve projelerimde uygulamaya çalışıyorum. Diğer yandan bir çok erkek gibi futbol vazgeçilmezim. Bilgisayar mühendisliğine ise Counter oynarken aldığı zevk ile tercih etmiş biri olarak oyunlardan vazgeçmediğimi de belirtmek isterim :))"
   thumbnailUrl: ahmet-keskin.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
+    - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/chapter/114568591151316164517/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/elifkus"}
     - {name: "site", link: "www.ahmetkeskin.me" }
+-
+  id: 12
+  name: "Aycan"
+  surname: "Aracı"
+  company: "Peak Games"
+  title: "QA Specialist"
+  bio: "Aycan Aracı, GDG İstanbul üyesi. Türkiye' de oyun sektörünü geliştirmeye çalışan bir gönüllü. Peak Games'de çalışıyor."
+  thumbnailUrl: aycan-araci.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group İstanbul", url: "https://developers.google.com/groups/chapter/100514812580249787371/"}
+-
+  id: 13
+  name: "Didem"
+  surname: "Kaya"
+  company: "IcTerra"
+  title: "Bilgisayar Mühendisi"
+  bio: "2008 yılında Başkent Üniversitesi Bilgisayar Mühendisliği’nden mezun olduktan sonra 2011 yılında Almanya, Eberhard Karls Tübingen Üniversitesi’nde Enformatik alanında yüksek lisansını tamamladı. Yüksek lisans öğrencisiyken çalışmaya başladığı Heiler Software AG’de (2012’den beri Informatica) mezun olunca, Teknik Danışman olarak çalıştı. Türkiye’ye dönüp, AK Yapım Mühendislik firmasında İş Geliştirme Mühendisi olarak çalışmaya başladı. 2013 Aralık - 2015 Ekim ayına kadar Gate Elektronik A.Ş.’de  Yazılım Mühendisi olarak çalıştı. Aralık 2015 den beri ICterra Bilgi ve İletişim Teknolojileri San.Tic. A.Ş. fırmasının savunma sanayi projesinde kıdemli yazılım mühendisi olarak çalışmakta. Sesli Haberleşme, Multimedya haberleşmesi, Cloud Computing, Big Data, çalıştığı alanlar arasında. Women Techmakers Ankara’nın organizatörü."
+  thumbnailUrl: didem-kaya.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/chapter/115602346615910585045/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/m/profile/ACoAAAXGj4UBCfdeGn5lF6F1Pf7WpykLS3qZBFk/"}
+-    
+  id: 14
+  name: "Oğuz"
+  surname: "Çelik"
+  company: "Yıldız Teknik Üniversitesi"
+  title: "Öğrenci"
+  bio: "GDG Istanbul'da Organizer, Yıldız Teknik Üniversitesi’nde Öğrenci, Müzisyen, Geek"
+  thumbnailUrl: oguz-celik.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group İstanbul", url: "https://developers.google.com/groups/chapter/100514812580249787371/"}
+  social: 
+    - {name: "twitter", link: "twitter.com/oguzcelikkk"}
+-    
+  id: 15
+  name: "Gökçe"
+  surname: "Türkay"
+  company: "Kreatif İşler"
+  title: ""
+  bio: "Hobi olarak başladığı dijital tasarım kariyerini 2005 yılında Okan Bayülgen ile çalışarak profesyonelliğe taşıdı. Birçok kurumsal ve özel projede arayüz tasarımcı ve önyüz geliştirici olarak yer aldı. Bir dönem MacLine dergisinde 'Web Atölyesi' adlı bölümde web tasarım süreçleri ile ilgili makaleler yazdı. Kurumsal şirketlerde dijital tasarım direktörlüğü de yapan Gökçe Türkay, 2013 yılı itibariyle kendi firması Kreatif İşler üzerinden yazılım firmalarına ve web sitelerine dijital tasarım danışmanlığı hizmeti vermektedir."
+  thumbnailUrl: gokce-turkay.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gokceturkay"}
+    - {name: "twitter", link: "https://twitter.com/gokceturkay"}
+    - {name: "instagram", link: "https://www.instagram.com/gokceturkay/"}
