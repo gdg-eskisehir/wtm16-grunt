@@ -1,9 +1,9 @@
 image: "direction-details.jpg"
-title: "Get around Lviv"
+title: "Eskişehir'de ne nerede?"
 cards:
- - {title: "Tren Garından", information: "Tren Garından taksiye binerek Anadolu Üniversitesine direkt olarak ulaşım sağlayabilirsiniz veya tren garından 200 metre ilersinde ki tramvay durağına giderek Anadolu Üniversitesi durağında inip üniversiteye giriş yapabilirsiniz."}
- - {title: "Otogardan", information: "Otogardan tramvaya binerek Anadolu Üniversitesi durağında inip üniversiteye giriş yapabilirsiniz."}
- - {title: "Oteller", information: "Eskişehirde uygun fiyatlı bir çok otel bulunmaktadır."}
+ - {title: "Tren Garından", information: "Tren Garı'ndan taksiye binerek Anadolu Üniversitesi'ne direkt olarak ulaşım sağlayabilirsiniz veya garın 200 metre ilersindeki tramvay durağına giderek Eczacılık Fakültesi durağında inerek üniversiteye giriş yapabilirsiniz."}
+ - {title: "Otogardan", information: "Otogardan tramvaya binerek Eczacılık Fakültesi durağında inerek üniversiteye giriş yapabilirsiniz."}
+ - {title: "Oteller", information: "Eskişehir'de uygun fiyatlı bir çok otel bulunmaktadır. Önerdiğimiz otellere aşağıdaki linklerden ulaşabilirsiniz."}
 wideCards:
  -
   title: "Sorularınız?"
