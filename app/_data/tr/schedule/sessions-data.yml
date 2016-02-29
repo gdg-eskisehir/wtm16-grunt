@@ -74,7 +74,7 @@
 -
   id: 4004
   title: "Daha İyi Performans için Uygulama Optimizasyonu"
-  description: "Kullanıcılar için performans önemlidir. Sizin için daha önemli olması gerekir. Bu oturumda perfomans ölçme araçlarını kullanarak uygulamada ki darboğaz sorunlarını nasıl düzeltebileceğimizi anlatacağım."
+  description: "Uygulama performansı, kullanıcılar için son derece önemli bir konudur. Bu sebeple geliştiriciler için de en önemli konuların başında gelmektedir. Dünya üzerindeki en ilgi çekici Android uygulamasına da sahip olsak, eğer yavaş cihazlarda düzgün çalışmıyor ve çok batarya tüketiyorsa, günün sonunda kullanıcılar uygulamayı sileceklerdir. Önemli olan görsellik ve performans arasındaki dengeyi kurmaktan geçmektedir. Bu oturumda, performans problemlerinin temel sebepleri ve performans profiling toolarının nasıl kullanılacağının üzerinde durulacaktır."
   subtype: sunum
   speakers: [1]
   language: tr
