@@ -195,6 +195,8 @@
   bio: "GDG Istanbul'da Organizer, Ödeal'da Android Developer."
   thumbnailUrl: hasan-keklik.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group İstanbul", url: "https://developers.google.com/groups/chapter/100514812580249787371/"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/hasankeklik"}
     - {name: "twitter", link: "https://twitter.com/keklikhasan"}
