@@ -4,7 +4,7 @@
   surname: "Boncuk"
   company: "Garanti Teknoloji"
   title: "Bilgisayar Mühendisi"
-  bio: "Elif Boncuk 2011 yılında Hacettepe Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldu, Bahçeşehir Üniversitesi'nde MBA programına devam etmekte. Şu anda Garanti Teknoloji'de Yazılım Uzmanı olarak çalışmakta. 4.5 yıldan uzun bir zamandır Android(Eclair'den beri) başta olmak üzere mobil teknolojiler üzerine çalışmaktadır. Şirketinde mobil ekibin kurulum aşamasında da yer almış olmakla beraber Garanti'nin popüler uygulamalarının çoğunun geliştirilmesinde görev almıştır."
+  bio: "Elif Boncuk 2011 yılında Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun oldu. Şu anda Bahçeşehir Üniversitesinde MBA yapmaktadır."
   thumbnailUrl: elif-boncuk.jpg
   rockstar: true
   social: 
@@ -186,3 +186,16 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/gokceturkay"}
     - {name: "twitter", link: "https://twitter.com/gokceturkay"}
     - {name: "instagram", link: "https://www.instagram.com/gokceturkay/"}
+-    
+  id: 16
+  name: "Hasan"
+  surname: "Keklik"
+  company: "Ödeal"
+  title: "Android Geliştirici"
+  bio: "GDG Istanbul'da Organizer, Ödeal'da Android Developer."
+  thumbnailUrl: hasan-keklik.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hasankeklik"}
+    - {name: "twitter", link: "https://twitter.com/keklikhasan"}
+    - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
